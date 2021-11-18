@@ -1,0 +1,39 @@
+.navbar{
+    font-family: 'Permanent Marker', cursive;
+}
+.navbar-brand{
+    font-family: 'Pacifico', cursive;
+}
+.hero{
+    font-family: 'Petemoss', cursive;
+}
+h4{
+    font-family: 'Martel',serif;
+}
+h5{
+    font-family: 'Martel',serif;
+}
+h6{
+    font-family: 'Martel',serif;
+}
+p{
+    font-family: 'Martel',serif;
+}
+.heroText{
+    font-family: 'Martel', serif;
+}
+.merch:hover{
+    box-shadow: -2px -1px 25px -4px rgba(0,0,0,0.75);
+    -webkit-box-shadow: -2px -1px 25px -4px rgba(0,0,0,0.75);
+    -moz-box-shadow: -2px -1px 25px -4px rgba(0,0,0,0.75);
+}
+.footer-list{
+    list-style: none;
+}
+.carousel-item{
+    height: fit-content;
+}
+/* image {
+    max-width: 200px;
+    max-height: 200px;
+  } */
